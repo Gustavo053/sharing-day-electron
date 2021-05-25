@@ -1,4 +1,3 @@
-const console = require('console');
 const { ipcMain } = require('electron');
 const api = require('../api/api');
 
